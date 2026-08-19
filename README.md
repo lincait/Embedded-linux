@@ -50,11 +50,20 @@
 - 编辑工具：VS Code + Remote-SSH
 - 版本管理：Git + GitHub
 
-## 参考视频
+## 参考资料和视频
+
+### 视频
 
 - [史上最强最细腻的linux嵌入式C语言学习教程【李慧芹老师】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18p4y167Md/)
 - [Ubuntu教程，乌班图ubuntu系统安装到实战_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JF4m1A7mN/)
 - [尚硅谷嵌入式Linux应用层开发，linux网络编程，linux进程线程，linux文件io_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DJ4m1M77z/)
+
+### 文档
+
+- 跟我一起写 Makefile 陈皓
+- 尚硅谷Linux应用层开发1.0.0
+- 尚硅谷Shell.1.0.0_7122
+- 尚硅谷Ubuntu教程1.0.0_5709
 
 ## 相关仓库
 
