@@ -8,6 +8,7 @@
 - `01_C语言基础补充/` - C语言核心知识查漏补缺
 - `02_数据结构/` - 嵌入式常用数据结构
 - `03_Linux系统编程/` - Linux系统编程与应用开发
+- `参考资料/` - 学习过程参考的文档
 - `调试记录/` - 遇到的Bug与解决方案
 - `工具与工具链/` - 相关工具链简单用法
 
@@ -38,6 +39,7 @@
 - [x] 线程处理
 - [x] 线程同步
 - [x] 信号量和线程池
+- [ ] 进程和线程（概念与原理）
 
 ### 驱动编程
 
@@ -48,7 +50,14 @@
 - 编辑工具：VS Code + Remote-SSH
 - 版本管理：Git + GitHub
 
+## 参考视频
+
+- [史上最强最细腻的linux嵌入式C语言学习教程【李慧芹老师】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18p4y167Md/)
+- [Ubuntu教程，乌班图ubuntu系统安装到实战_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1JF4m1A7mN/)
+- [尚硅谷嵌入式Linux应用层开发，linux网络编程，linux进程线程，linux文件io_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1DJ4m1M77z/)
+
 ## 相关仓库
+
 - 笔记整理：[Embedded-notes](https://github.com/lincait/Embedded-notes)
 - 代码练习：[LinuxC-practice](https://github.com/lincait/LinuxC-practice)
 - 开发板学习：
